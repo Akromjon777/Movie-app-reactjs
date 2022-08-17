@@ -55,7 +55,7 @@ const Header = () => {
           to="/nowplaying"
         >
           Now Playing
-        </NavLink>
+        </NavLink>  
         <NavLink
           className={`text-white ms-3 text-decoration-none fs-3 me-3 ${({
             isActive,

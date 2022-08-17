@@ -7,7 +7,7 @@ export const TvShow = () => {
     axios
       .get("https://api.themoviedb.org/3/tv/popular", {
         params: {
-          api_key: "41b484f8ece1bd6a810cc673410dd71f",
+          api_key: "4b1ab8284d7999d94c42f9427e96b18c",
         },
       })
       .then(function (response) {

@@ -17,7 +17,7 @@ export const TopRated = () => {
     axios
       .get("https://api.themoviedb.org/3/movie/top_rated/", {
         params: {
-          api_key: "7650dce43cf362883db62975d4c44f76",
+          api_key: "4b1ab8284d7999d94c42f9427e96b18c",
           page: active,
         },
       })
