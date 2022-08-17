@@ -1,0 +1,15 @@
+.single__page--box-one {
+    max-width: 900px;
+    width: 100%;
+    border: 6px solid #ccc;
+    margin-right: 40px;
+    position: relative;
+}
+
+.movie__id {
+    position: absolute;
+    padding: 4px 7px;
+    border-radius: 5px;
+    bottom: 0;
+    right: 0;
+}

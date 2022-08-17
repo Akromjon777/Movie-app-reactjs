@@ -1,0 +1,19 @@
+.card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-self: stretch;
+  max-width: 300px;
+  width: 100%;
+  height: 100%;
+  border: none !important;
+}
+
+.card-info {
+  color: black;
+}
+
+.card-img {
+  height: 100%;
+  width: 100%;
+} 
